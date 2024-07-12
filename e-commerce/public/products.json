@@ -1,0 +1,165 @@
+[
+  {
+    "id": 1,
+    "name": "Soccer Ball",
+    "category": "Soccer",
+    "description": "High-quality soccer ball for professional play.",
+    "detailedDescription": "This soccer ball is made from premium materials and designed for excellent performance on the field. It features a durable outer layer and a responsive bladder for consistent play.",
+    "price": 29.99,
+    "image": "https://images.unsplash.com/photo-1616514169928-a1e40c6f791c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c29jY2VyJTIwYmFsbHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 2,
+    "name": "Basketball Hoop",
+    "category": "Basketball",
+    "description": "Indoor basketball hoop for home use.",
+    "detailedDescription": "Bring the game of basketball into your home with this easy-to-install indoor basketball hoop. It comes with a sturdy backboard, a breakaway rim, and a basketball for immediate play.",
+    "price": 149.99,
+    "image": "https://images.unsplash.com/photo-1494199505258-5f95387f933c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8QmFza2V0YmFsbCUyMEhvb3B8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 3,
+    "name": "Tennis Racket",
+    "category": "Tennis",
+    "description": "Lightweight tennis racket for beginners.",
+    "detailedDescription": "Ideal for beginners and casual players, this tennis racket combines lightweight construction with a comfortable grip. It's designed to help improve your game without sacrificing control.",
+    "price": 79.99,
+    "image": "https://images.unsplash.com/photo-1617883861744-13b534e3b928?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8VGVubmlzJTIwUmFja2V0fGVufDB8fDB8fHww"
+  },
+  {
+    "id": 4,
+    "name": "Running Shoes",
+    "category": "Running",
+    "description": "Premium running shoes for all-terrain use.",
+    "detailedDescription": "These running shoes are engineered for comfort and performance on all types of terrain. They feature a lightweight design, responsive cushioning, and a breathable upper for maximum airflow.",
+    "price": 109.99,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8UnVubmluZyUyMFNob2VzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 5,
+    "name": "Baseball Bat",
+    "category": "Baseball",
+    "description": "Classic wooden baseball bat.",
+    "detailedDescription": "Crafted from solid wood, this baseball bat offers durability and performance. It's ideal for players of all ages and skill levels, providing a comfortable grip and powerful swing.",
+    "price": 39.99,
+    "image": "https://plus.unsplash.com/premium_photo-1679507015608-ac6b474a4bbc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8QmFzZWJhbGwlMjBCYXR8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 6,
+    "name": "Swimming Goggles",
+    "category": "Swimming",
+    "description": "Anti-fog swimming goggles for competitive swimmers.",
+    "detailedDescription": "These swimming goggles are designed to enhance your underwater visibility with their anti-fog lenses. They provide a comfortable fit and a secure seal, making them perfect for competitive swimmers.",
+    "price": 19.99,
+    "image": "https://images.unsplash.com/photo-1467044705596-744699fa8931?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8U3dpbW1pbmclMjBHb2dnbGVzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 7,
+    "name": "Golf Clubs Set",
+    "category": "Golf",
+    "description": "Complete set of golf clubs for intermediate players.",
+    "detailedDescription": "This golf clubs set includes everything you need to hit the course with confidence. It features a driver, irons, wedges, and a putter, all designed for performance and forgiveness.",
+    "price": 299.99,
+    "image": "https://plus.unsplash.com/premium_photo-1679758416197-a828abb2d2d3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fEdvbGYlMjBDbHVicyUyMFNldHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 8,
+    "name": "Boxing Gloves",
+    "category": "Boxing",
+    "description": "Premium leather boxing gloves for training and sparring.",
+    "detailedDescription": "These boxing gloves are made from high-quality leather, offering durability and comfort during training and sparring sessions. They feature padding for protection and wrist support for stability.",
+    "price": 69.99,
+    "image": "https://images.unsplash.com/photo-1583473848882-f9a5bc7fd2ee?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Qm94aW5nJTIwR2xvdmVzfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 9,
+    "name": "Cycling Helmet",
+    "category": "Cycling",
+    "description": "Lightweight cycling helmet for road and mountain biking.",
+    "detailedDescription": "Protect your head with this lightweight cycling helmet, designed for both road and mountain biking. It features ventilation for airflow, adjustable straps for a secure fit, and a visor to shield your eyes from the sun.",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1701522814779-2d0e40de3370?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Q3ljbGluZyUyMEhlbG1ldHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 10,
+    "name": "Yoga Mat",
+    "category": "Yoga",
+    "description": "Non-slip yoga mat for practicing yoga at home or in the studio.",
+    "detailedDescription": "This yoga mat provides a stable and comfortable surface for your yoga practice. It's made from non-slip material to prevent slipping and sliding during poses. Lightweight and easy to carry.",
+    "price": 24.99,
+    "image": "https://images.unsplash.com/photo-1591291621164-2c6367723315?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8eW9nYSUyMG1hdHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 11,
+    "name": "Hiking Backpack",
+    "category": "Hiking",
+    "description": "Waterproof hiking backpack with multiple compartments.",
+    "detailedDescription": "Take on the trails with this waterproof hiking backpack. It offers ample storage space with multiple compartments for organizing your gear. Features padded straps and a breathable back panel for comfort.",
+    "price": 79.99,
+    "image": "https://images.unsplash.com/photo-1620953749696-38989c40eadb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SGlraW5nJTIwQmFja3BhY2t8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 12,
+    "name": "Snowboard",
+    "category": "Snowboarding",
+    "description": "Freestyle snowboard for riders who enjoy park and pipe.",
+    "detailedDescription": "This freestyle snowboard is perfect for riders who love hitting the park and pipe. It features a twin tip design for switch riding, camber underfoot for stability, and rocker at the tips for float in powder.",
+    "price": 249.99,
+    "image": "https://images.unsplash.com/photo-1498146831523-fbe41acdc5ad?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c25vd2JvYXJkfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 13,
+    "name": "Surfboard",
+    "category": "Surfing",
+    "description": "Performance surfboard for experienced surfers.",
+    "detailedDescription": "Catch waves with ease on this performance surfboard designed for experienced surfers. It features a sleek design for speed and maneuverability in the water, offering control and responsiveness.",
+    "price": 399.99,
+    "image": "https://images.unsplash.com/photo-1526918761918-da528d9558c5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8U3VyZmJvYXJkfGVufDB8fDB8fHww"
+  },
+  {
+    "id": 14,
+    "name": "Cricket Bat",
+    "category": "Cricket",
+    "description": "Handcrafted cricket bat for serious cricketers.",
+    "detailedDescription": "Handcrafted from premium willow, this cricket bat is made for serious cricketers. It offers excellent balance and power, allowing batsmen to play their shots with confidence and precision.",
+    "price": 89.99,
+    "image": "https://plus.unsplash.com/premium_photo-1678033331726-0f02fe52b195?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Q3JpY2tldCUyMEJhdHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 15,
+    "name": "Weightlifting Barbell",
+    "category": "Weightlifting",
+    "description": "Olympic-grade barbell for weightlifting competitions.",
+    "detailedDescription": "Train like a champion with this Olympic-grade weightlifting barbell. It's crafted for durability and performance, featuring a knurled grip for a secure hold and precision-engineered sleeves for smooth rotation.",
+    "price": 199.99,
+    "image": "https://images.unsplash.com/photo-1517963628607-235ccdd5476c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8V2VpZ2h0bGlmdGluZyUyMEJhcmJlbGx8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": 16,
+    "name": "Skateboard",
+    "category": "Skateboarding",
+    "description": "Complete skateboard for street and park skating.",
+    "detailedDescription": "Get rolling with this complete skateboard, perfect for street and park skating. It features a sturdy deck, smooth-rolling wheels, and responsive trucks for tricks and cruising.",
+    "price": 59.99,
+    "image": "https://plus.unsplash.com/premium_photo-1684964177934-21190c1abc00?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U2thdGVib2FyZHxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 17,
+    "name": "Trekking Poles",
+    "category": "Trekking",
+    "description": "Adjustable trekking poles for hiking and backpacking.",
+    "detailedDescription": "Enhance your hiking experience with these adjustable trekking poles. They provide stability on uneven terrain, reduce strain on your joints, and feature ergonomic grips for comfort.",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1623783593139-f4f36b7bbb2f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8VHJla2tpbmclMjBQb2xlc3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 18,
+    "name": "Gymnastics Mat",
+    "category": "Gymnastics",
+    "description": "Foldable gymnastics mat for home practice.",
+    "detailedDescription": "Practice gymnastics at home with this foldable mat. It offers cushioning and support for tumbling, stretching, and floor exercises. Easy to store and transport.",
+    "price": 69.99,
+    "image": "https://media.istockphoto.com/id/1129653978/photo/hall-for-gymnastics-at-school-multi-colored-mats-doing-sports-sports-equipment-healthy.webp?b=1&s=170667a&w=0&k=20&c=Wq7EzdSMPV9Ph5-7_HYAWgCU4rO-av95LnO455xSGJw="
+  }
+ 
+]
